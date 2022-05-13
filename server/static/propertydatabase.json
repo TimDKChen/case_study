@@ -1,0 +1,802 @@
+{
+    "0": {
+        "Lots": "Lot 388 Sec 3163 DP 10916 Hd of Munno Para",
+        "Address": "5  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "1": {
+        "Lots": "Lot 389 Sec 3163 DP 10916 Hd of Munno Para",
+        "Address": "7  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "2": {
+        "Lots": "Lot 393 Sec 3163 DP 10916 Hd of Munno Para",
+        "Address": "9  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "3": {
+        "Lots": "Lot 394 Sec 3163 DP 10916 Hd of Munno Para",
+        "Address": "11  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "4": {
+        "Lots": "Lot 395 Sec 3163 DP 10916 Hd of Munno Para",
+        "Address": "13  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "5": {
+        "Lots": "Lot 340 Sec 3163 DP 10916 Hd of Munno Para",
+        "Address": "15  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "6": {
+        "Lots": "Lot 1 Sec 3163 DP 28060 Hd of Munno Para",
+        "Address": "17  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "7": {
+        "Lots": "Lot 2 Sec 3163 DP 28060 Hd of Munno Para",
+        "Address": "19  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "8": {
+        "Lots": "Part Lot 342 Sec 3162 DP 10916 Hd of Munno Para, Part Lot 342 Sec 3163 DP 10916 Hd of Munno Para",
+        "Address": "21  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "9": {
+        "Lots": "Part Lot 342 Sec 3162 DP 10916 Hd of Munno Para, Part Lot 342 Sec 3163 DP 10916 Hd of Munno Para",
+        "Address": "23  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "10": {
+        "Lots": "Lot 344 Sec 3162 DP 10916",
+        "Address": "25  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "11": {
+        "Lots": "Lot 344 Sec 3162 DP 10916",
+        "Address": "27  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "12": {
+        "Lots": "Lot 390 Sec 3162 DP 10916 Hd of Munno Para",
+        "Address": "2  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "13": {
+        "Lots": "Lot 391 Sec 3162 DP 10916 Hd of Munno Para",
+        "Address": "4  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "14": {
+        "Lots": "Lot 392 Sec 3162 DP 10916 Hd of Munno Para",
+        "Address": "6  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "15": {
+        "Lots": "Lot 3 Sec 3162 DP 51741 Hd of Munno Para",
+        "Address": "8  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "16": {
+        "Lots": "Lot 4 Sec 3162 DP 51741 Hd of Munno Para",
+        "Address": "10  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "17": {
+        "Lots": "Lot 5 Sec 3162 DP 51741 Hd of Munno Para",
+        "Address": "12  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "18": {
+        "Lots": "Lot 5 Sec 3162 DP 51741 Hd of Munno Para",
+        "Address": "14  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "19": {
+        "Lots": "Lot 337 Sec 3162 DP 10916",
+        "Address": "16  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "20": {
+        "Lots": "Lot 337 Sec 3162 DP 10916",
+        "Address": "18  Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD  SA  5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "21": {
+        "Lots": "Lot 19 Sec 3162 FP 16860 Hd of Munno Para",
+        "Address": "Lot 19 Morialta Drive",
+        "Suburb_PostCode": "SMITHFIELD SA 5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Morialta Drive",
+        "PostCode": "5114"
+    },
+    "22": {
+        "Lots": "Lot 95 Sec 3163 DP 10916 Hd of Munno Para",
+        "Address": "Lot 95 Adaluna Crescent",
+        "Suburb_PostCode": "SMITHFIELD SA 5114",
+        "Suburb": "SMITHFIELD",
+        "Street": "Adaluna Crescent",
+        "PostCode": "5114"
+    },
+    "23": {
+        "Lots": "Lot 94 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "1  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "24": {
+        "Lots": "Lot 95 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "3  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "25": {
+        "Lots": "Lot 96 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "5  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "26": {
+        "Lots": "Lot 97 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "7  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "27": {
+        "Lots": "Lot 98 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "9  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "28": {
+        "Lots": "Lot 99 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "11  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "29": {
+        "Lots": "Lot 100 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "13  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "30": {
+        "Lots": "Lot 101 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "15  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "31": {
+        "Lots": "Lot 102 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "17  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "32": {
+        "Lots": "Lot 103 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "19  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "33": {
+        "Lots": "Lot 104 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "21  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "34": {
+        "Lots": "Lot 105 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "23  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "35": {
+        "Lots": "Lot 106 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "25  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "36": {
+        "Lots": "Lot 318 Sec 1717 DP 10447 Hd of Munno Para",
+        "Address": "27  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "37": {
+        "Lots": "Lot 319 Sec 1717 DP 10447 Hd of Munno Para",
+        "Address": "29  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "38": {
+        "Lots": "Lot 320 Sec 1717 DP 10447 Hd of Munno Para",
+        "Address": "31  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "39": {
+        "Lots": "Lot 321 Sec 1717 DP 10447 Hd of Munno Para",
+        "Address": "33  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "40": {
+        "Lots": "Lot 322 Sec 1717 DP 10447 Hd of Munno Para",
+        "Address": "35  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "41": {
+        "Lots": "Lot 323 Sec 1717 DP 10447 Hd of Munno Para",
+        "Address": "37  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "42": {
+        "Lots": "Lot 381 Sec 1717 DP 10448 Hd of Munno Para",
+        "Address": "39  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "43": {
+        "Lots": "Lot 380 Sec 1717 DP 10448 Hd of Munno Para",
+        "Address": "41  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "44": {
+        "Lots": "Lot 379 Sec 1717 DP 10448 Hd of Munno Para",
+        "Address": "43  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "45": {
+        "Lots": "Lot 378 Sec 1717 DP 10448 Hd of Munno Para",
+        "Address": "45  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "46": {
+        "Lots": "Lot 377 Sec 1717 DP 10448 Hd of Munno Para",
+        "Address": "47  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "47": {
+        "Lots": "Lot 358 Sec 1717 DP 10448 Hd of Munno Para",
+        "Address": "49  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "48": {
+        "Lots": "Lot 357 Sec 1717 DP 10448 Hd of Munno Para",
+        "Address": "51  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "49": {
+        "Lots": "Lot 391 Sec 1717 DP 10449 Hd of Munno Para",
+        "Address": "53  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "50": {
+        "Lots": "Lot 455 Sec 1717 DP 10561 Hd of Munno Para",
+        "Address": "57  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "51": {
+        "Lots": "Lot 449 Sec 1717 DP 10561 Hd of Munno Para",
+        "Address": "61  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "52": {
+        "Lots": "Lot 450 Sec 1717 DP 10561 Hd of Munno Para",
+        "Address": "63  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "53": {
+        "Lots": "Lot 451 Sec 1717 DP 10561 Hd of Munno Para",
+        "Address": "65  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "54": {
+        "Lots": "Lot 452 Sec 1717 DP 10561 Hd of Munno Para",
+        "Address": "67  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "55": {
+        "Lots": "Lot 453 Sec 1717 DP 10561 Hd of Munno Para",
+        "Address": "69  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "56": {
+        "Lots": "Lot 454 Sec 1717 DP 10561 Hd of Munno Para",
+        "Address": "71  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "57": {
+        "Lots": "Lot 36 Sec 3172 DP 10441 Hd of Munno Para",
+        "Address": "2  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "58": {
+        "Lots": "Lot 37 Sec 3172 DP 10441 Hd of Munno Para",
+        "Address": "4  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "59": {
+        "Lots": "Lot 38 Sec 3172 DP 10441 Hd of Munno Para",
+        "Address": "6  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "60": {
+        "Lots": "Lot 39 Sec 3172 DP 10441 Hd of Munno Para",
+        "Address": "8  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "61": {
+        "Lots": "Lot 10 Sec 3172 DP 10441 Hd of Munno Para",
+        "Address": "10  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "62": {
+        "Lots": "Lot 11 Sec 3172 DP 10441 Hd of Munno Para",
+        "Address": "12  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "63": {
+        "Lots": "Lot 12 Sec 3172 DP 10441 Hd of Munno Para",
+        "Address": "14  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "64": {
+        "Lots": "Lot 72 Sec 1719 DP 10442 Hd of Munno Para",
+        "Address": "16  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "65": {
+        "Lots": "Lot 73 Sec 3172 DP 10442 Hd of Munno Para",
+        "Address": "18  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "66": {
+        "Lots": "Lot 74 Sec 3172 DP 10442 Hd of Munno Para",
+        "Address": "20  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "67": {
+        "Lots": "Lot 85 Sec 1719 DP 10442 Hd of Munno Para",
+        "Address": "22  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "68": {
+        "Lots": "Lot 86 Sec 1719 DP 10442 Hd of Munno Para, Lot 86 Sec 3172 DP 10442 Hd of Munno Para",
+        "Address": "24  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "69": {
+        "Lots": "Lot 132 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "30  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "70": {
+        "Lots": "Lot 131 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "32  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "71": {
+        "Lots": "Lot 130 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "34  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "72": {
+        "Lots": "Lot 118 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "38  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "73": {
+        "Lots": "Lot 117 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "40  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "74": {
+        "Lots": "Lot 107 Sec 1719 DP 10443 Hd of Munno Para",
+        "Address": "42  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "75": {
+        "Lots": "Lot 189 Sec 1719 DP 10444 Hd of Munno Para",
+        "Address": "44  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "76": {
+        "Lots": "Lot 190 Sec 1719 DP 10444 Hd of Munno Para",
+        "Address": "46  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "77": {
+        "Lots": "Lot 191 Sec 1718 DP 10444 Hd of Munno Para",
+        "Address": "48  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "78": {
+        "Lots": "Lot 192 Sec 1719 DP 10444 Hd of Munno Para",
+        "Address": "50  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "79": {
+        "Lots": "Lot 193 Sec 1719 DP 10444 Hd of Munno Para",
+        "Address": "52  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "80": {
+        "Lots": "Lot 194 Sec 1719 DP 10444 Hd of Munno Para",
+        "Address": "54  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "81": {
+        "Lots": "Lot 195 Sec 1719 DP 10444 Hd of Munno Para",
+        "Address": "56  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "82": {
+        "Lots": "Lot 196 Sec 1719 DP 10444 Hd of Munno Para",
+        "Address": "58  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "83": {
+        "Lots": "Lot 197 Sec 1719 DP 10444 Hd of Munno Para",
+        "Address": "60  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "84": {
+        "Lots": "Lot 23 Sec 1718 DP 20902 Hd of Munno Para",
+        "Address": "30  Karri Street",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Karri Street",
+        "PostCode": "5115"
+    },
+    "85": {
+        "Lots": "Lot 22 Sec 1718 DP 20902 Hd of Munno Para",
+        "Address": "78  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "86": {
+        "Lots": "Lot 3 Sec 1718 DP 20902 Hd of Munno Para",
+        "Address": "84  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "87": {
+        "Lots": "Lot 2 Sec 1718 DP 20902 Hd of Munno Para",
+        "Address": "86  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "88": {
+        "Lots": "Lot 1 Sec 1718 DP 20902 Hd of Munno Para",
+        "Address": "88  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "89": {
+        "Lots": "Lot 276 Sec 1718 DP 10447 Hd of Munno Para",
+        "Address": "90  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "90": {
+        "Lots": "Lot 296 Sec 1718 DP 10447 Hd of Munno Para",
+        "Address": "94  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "91": {
+        "Lots": "Lot 297 Sec 1718 DP 10447 Hd of Munno Para",
+        "Address": "96  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "92": {
+        "Lots": "Lot 298 Sec 1718 DP 10447 Hd of Munno Para",
+        "Address": "98  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "93": {
+        "Lots": "Lot 299 Sec 1717 DP 10447 Hd of Munno Para, Lot 299 Sec 1718 DP 10447 Hd of Munno Para",
+        "Address": "100  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "94": {
+        "Lots": "Lot 300 Sec 1717 DP 10447 Hd of Munno Para, Lot 300 Sec 1718 DP 10447 Hd of Munno Para",
+        "Address": "102  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "95": {
+        "Lots": "Lot 301 Sec 1717 DP 10447 Hd of Munno Para",
+        "Address": "104  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "96": {
+        "Lots": "Lot 302 Sec 1717 DP 10447 Hd of Munno Para",
+        "Address": "106  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "97": {
+        "Lots": "Lot 303 Sec 1717 DP 10447 Hd of Munno Para",
+        "Address": "108  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "98": {
+        "Lots": "Lot 304 Sec 1717 DP 10447 Hd of Munno Para",
+        "Address": "110  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    },
+    "99": {
+        "Lots": "Lot 305 Sec 1717 DP 10447 Hd of Munno Para",
+        "Address": "112  Alawoona Road",
+        "Suburb_PostCode": "MUNNO PARA  SA  5115",
+        "Suburb": "MUNNO PARA",
+        "Street": "Alawoona Road",
+        "PostCode": "5115"
+    }
+}
